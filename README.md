@@ -37,7 +37,7 @@ allprojects {
 2. Add the dependency
 ```gradle
 dependencies {
-    implementation 'com.github.AngeloAvv:laravel-jecho-client:0.1'
+    implementation 'com.github.AngeloAvv:laravel-jecho-client:0.1.1'
 }
 ```
 
@@ -56,7 +56,7 @@ dependencies {
 <dependency>
     <groupId>com.github.AngeloAvv</groupId>
     <artifactId>laravel-jecho-client</artifactId>
-    <version>0.1</version>
+    <version>0.1.1</version>
 </dependency>
 ```
 

@@ -6,7 +6,7 @@
 
     <groupId>com.github.AngeloAvv</groupId>
     <artifactId>laravel-jecho-client</artifactId>
-    <version>-0.1</version>
+    <version>-0.1.1</version>
     <build>
         <plugins>
             <plugin>
