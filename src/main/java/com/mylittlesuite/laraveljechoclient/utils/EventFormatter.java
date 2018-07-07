@@ -34,7 +34,7 @@ public class EventFormatter {
             event = this.namespace + '.' + event;
         }
 
-        return event.replace("/\\./g", "\\");
+        return event.replace(".", "\\");
     }
 
 }
